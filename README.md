@@ -29,12 +29,10 @@ Programador enfocado en la creación de **soluciones backend eficientes, estruct
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white) ![](https://img.shields.io/badge/XAMPP-FB3E44?style=for-the-badge&logo=xampp&logoColor=white)  
 🤖 **Inteligencia Artificial:** Aplicada de manera estratégica para la optimización de código, resolución de problemas complejos, generación de pruebas y documentación técnica de calidad.
 
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harolmaldonado0719&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Harolmaldonado0719&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Lenguajes más usados" />
 </p>
 
 ---
