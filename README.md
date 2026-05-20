@@ -1,5 +1,14 @@
 # Harol Daniel Maldonado Arismendi
 
+**Java • MySQL**
+
+📍 Bogotá / Tena, Cundinamarca, Colombia  
+✉️ harolmaldonado14@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/harol-daniel-maldonado-arismendi-83047337a) | 📁 [Portafolio Web](https://harolmaldonado0719.github.io/Portafolio/)  
+🟢 Disponible para trabajo remoto o hibrido...
+
+---
+
 <p align="left">
   <img src="https://img.shields.io/badge/Rol-Desarrollador%20Backend%20en%20Formaci%C3%B3n-blue?style=for-the-badge&logo=target" alt="Rol">
   <img src="https://img.shields.io/badge/Estudios-Tecn%C3%B3logo%20ADSO%20--%20SENA-green?style=for-the-badge&logo=read-the-docs" alt="SENA">
