@@ -17,6 +17,35 @@ Programador enfocado en la creación de **soluciones backend eficientes, estruct
 
 ---
 
+---
+
+## 💻 Proyecto Destacado
+
+### ✂️ Clip Techs System
+> *Plataforma web intuitiva enfocada en la gestión, automatización y administración eficiente de peluquerías y centros de estética.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=flat-square" alt="MVC">
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL-777BB4?style=flat-square" alt="Backend">
+  <img src="https://img.shields.io/badge/Frontend-JS%20%7C%20Materialize%20CSS-FF7043?style=flat-square" alt="Frontend">
+</p>
+
+Este sistema surge como una solución tecnológica para centralizar y automatizar tareas que tradicionalmente se realizan de forma manual. Durante su ciclo de vida, apliqué un proceso completo de **ingeniería de software**: análisis detallado de requerimientos, definición de casos de uso, diseño de mapas de navegación, estructuración de wireframes y el modelado completo de la base de datos relacional.
+
+#### 🚀 Características Principales:
+* **Gestión Centralizada:** Administración avanzada de perfiles de clientes, organización del catálogo de servicios y control de la información operativa.
+* **Agenda Dinámica:** Programación y control estructurado de citas para optimizar el tiempo del negocio.
+* **Diseño e Interfaz:** Interfaz web fluida diseñada en *Balsamiq Mockups*, enfocada en la experiencia de usuario (UX) y accesibilidad.
+
+#### 🛠️ Stack Tecnológico:
+* **Arquitectura:** Patrón Modelo-Vista-Controlador (MVC) para asegurar un código limpio y escalable.
+* **Lógica y Persistencia:** **PHP** para el procesamiento del lado del servidor y **MySQL** para el modelado y manipulación de datos relacionales.
+* **Interfaz de Usuario:** HTML5, CSS3, JavaScript y **Materialize CSS** para un entorno visual moderno y responsivo.
+
+[📁 Explorar Repositorio y Documentación Técnica](https://github.com/Harolmaldonado0719/Proyecto-clip)
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes y Lógica Sólida
