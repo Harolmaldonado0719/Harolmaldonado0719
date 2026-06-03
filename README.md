@@ -70,7 +70,7 @@ Solución tecnológica diseñada para centralizar y automatizar tareas operativa
 
 ## Contacto
 
-Si deseas conocer más sobre mis proyectos o evaluar cómo mis habilidades pueden alinearse con los objetivos de tu equipo técnico, puedes ponerte en contacto a través de los siguientes canales:
+Si deseas conocer más sobre mis proyectos o evaluar cómo mis habilidades pueden alinearse con los objetivos de tu equipo, puedes ponerte en contacto a través de los siguientes canales:
 
 [![Portfolio](https://img.shields.io/badge/Mi%20Portafolio%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harolmaldonado0719.github.io/Portafolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harol-daniel-maldonado-arismendi-83047337a)
