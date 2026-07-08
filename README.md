@@ -72,7 +72,8 @@ Solución tecnológica diseñada para centralizar y automatizar tareas operativa
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) *(Desarrollo Backend / En ruta de aprendizaje)*
 
 ### Herramientas, IDEs e IA
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white) ![](https://img.shields.io/badge/XAMPP-FB3E44?style=for-the-badge&logo=xampp&logoColor=white)  
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/Microsoft_SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white).![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white) ![](https://img.shields.io/badge/XAMPP-FB3E44?style=for-the-badge&logo=xampp&logoColor=white)  
 
 * **Inteligencia Artificial:** Implementada de manera estratégica como herramienta de soporte para la optimización de código, resolución de problemas lógicos, diseño de pruebas unitarias y estructuración de documentación técnica.
 
