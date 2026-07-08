@@ -59,7 +59,7 @@ Solución tecnológica diseñada para centralizar y automatizar tareas operativa
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) *(Lógica Principal, POO y Estructuras de Datos)* ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) *(Arquitectura MVC)* ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) *(Modelado Relacional, Consultas y Manipulación de Datos)* ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) *(Bases de maquetación)*
 
 ### Frameworks y Estilos (En Ruta y Práctica)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) *(Desarrollo Backend / En ruta de aprendizaje)* ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) *(Estilos ágiles)*
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) *(Desarrollo Backend / En ruta de aprendizaje)*
 
 ### Herramientas, IDEs e IA
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white) ![](https://img.shields.io/badge/XAMPP-FB3E44?style=for-the-badge&logo=xampp&logoColor=white)  
