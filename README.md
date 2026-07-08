@@ -56,7 +56,13 @@ Solución tecnológica diseñada para centralizar y automatizar tareas operativa
 ## Tecnologías y Herramientas
 
 ### Lenguajes y Lógica Sólida
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) *(Lógica Principal, POO y Estructuras de Datos)* ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) *(Arquitectura MVC)* ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) *(Modelado Relacional, Consultas y Manipulación de Datos)* ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) *(Bases de maquetación)*
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) *(Lógica Principal, POO y Estructuras de Datos)* 
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) *(Arquitectura MVC)* 
+![](https://shields.io) *(En ruta de aprendizaje: Fundamentos de sintaxis, POO y ecosistema .NET)* 
+![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) *(Modelado Relacional, Consultas y Manipulación de Datos)* 
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) *(Bases de maquetación Basico)*
+
 
 ### Frameworks y Estilos (En Ruta y Práctica)
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) *(Desarrollo Backend / En ruta de aprendizaje)*
