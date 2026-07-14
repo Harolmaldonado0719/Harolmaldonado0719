@@ -1,6 +1,6 @@
 # Harol Daniel Maldonado Arismendi
 
-**Java • MySQL**
+**Java • C# • .NET • Sql Management**
 
 📍 Bogotá / Tena, Cundinamarca, Colombia  
 ✉️ harolmaldonado14@gmail.com  
