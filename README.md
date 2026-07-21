@@ -47,7 +47,7 @@ Solución tecnológica diseñada para centralizar y automatizar tareas operativa
 #### Stack Tecnológico
 * **Arquitectura:** Patrón Modelo-Vista-Controlador (MVC) para asegurar modularidad y escalabilidad del código.
 * **Lógica y Persistencia:** PHP para el procesamiento del lado del servidor y MySQL para el modelado y manipulación de datos relacionales.
-* **Interfaz de Usuario:** HTML5, CSS3, JavaScript y Materialize CSS para un entorno visual moderno y responsivo.
+* **Interfaz de Usuario:** HTML, CSS, JavaScript y Materialize CSS para un entorno visual moderno y responsivo.
 
 [📁 Explorar Repositorio y Documentación Técnica](https://github.com/Harolmaldonado0719/Proyecto-clip)
 
@@ -55,14 +55,14 @@ Solución tecnológica diseñada para centralizar y automatizar tareas operativa
 
 ## Tecnologías y Herramientas
 
-### Lenguajes y Lógica Sólida
+### Lenguajes y Lógica
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) *(Lógica Principal, POO y Estructuras de Datos)* 
 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) *(Arquitectura MVC)* 
 
 ![](https://shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) *(En ruta de aprendizaje: Fundamentos de sintaxis, POO y ecosistema .NET)* 
 
-![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) *(Modelado Relacional, Consultas y Manipulación de Datos)* 
+![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) *(Modelado Relacional, Consultas y Manipulación de Datos basico)* 
 
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) 
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) *(Bases de maquetación Basico)*
